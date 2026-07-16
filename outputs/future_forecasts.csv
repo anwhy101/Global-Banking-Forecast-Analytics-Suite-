@@ -1,0 +1,7 @@
+Ticker,Bank,Current_Price,Forecast_30D,Expected_Return_%,Forecast_Lower_95,Forecast_Upper_95,Volatility_%,Sharpe_Ratio
+C,Citigroup,144.79,144.79,0.01,133.08,156.51,32.7,0.51
+JPM,JPMorgan Chase,329.1,329.1,0.0,304.77,353.43,27.04,0.77
+NMR,Nomura,9.02,9.03,0.0,8.0,10.05,30.91,0.31
+DBK.DE,Deutsche Bank,30.92,30.92,-0.01,27.56,34.28,38.68,0.31
+AXISBANK.NS,Axis Bank,1360.1,1359.58,-0.04,1208.0,1511.15,32.59,0.45
+HDFCBANK.NS,HDFC Bank,799.0,798.4,-0.07,707.98,888.83,22.32,0.63

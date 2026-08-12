@@ -267,11 +267,11 @@ The platform enables users to:
 
 ## Author
 
-**Nehasri Eragandula**
+**Nandini Yadav**
 
 Indian Institute of Technology Kanpur (IIT Kanpur)
 
-Department of Biological Sciences and Bioengineering (BSBE)
+Civil Engineering 
 
 Interests:
 - Finance
